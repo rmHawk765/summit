@@ -1,0 +1,29 @@
+{
+  "name": "summit",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmHawk765/summit.git"
+  },
+  "author": "rmHawk765",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/rmHawk765/summit/issues"
+  },
+  "homepage": "https://github.com/rmHawk765/summit#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@sapphire/decorators": "^6.1.0",
+    "@sapphire/framework": "^5.2.1",
+    "discord.js": "^14.15.2",
+    "mongodb": "^6.7.0"
+  }
+}
