@@ -5,7 +5,6 @@
 
     /* Language and Environment */
     "target": "ES2022",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
-    "experimentalDecorators": true,                      /* Enable experimental support for legacy experimental decorators. */
 
     /* Modules */
     "module": "Node16",                                  /* Specify what module code is generated. */
