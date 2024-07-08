@@ -13,6 +13,7 @@
     "resolveJsonModule": true,                           /* Enable importing .json files. */
 
     /* Emit */
+    "declaration": true,
     "outDir": "./dist/",                                 /* Specify an output folder for all emitted files. */
     "declarationDir": "./types/",                        /* Specify the output directory for generated declaration files. */ 
     "newLine": "LF",                                     /* Set the newline character for emitting files. */
